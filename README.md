@@ -11,7 +11,7 @@ Här skapas den privata variabeln myWebView av typen WebView, som ännu inte är
 ```
     myWebView = findViewById(R.id.my_webview);
 ```
-Här instansieras variablen myWebView med den inbyggda funktionen "findViewById" + det Id denna
+Här instansieras variablen myWebView med den inbyggda funktionen .findViewById + det Id denna
 komponent tilldelades.
 
 Skapade en assets folder som innehåller den interna html-filen och en extra mapp för utvecklings
